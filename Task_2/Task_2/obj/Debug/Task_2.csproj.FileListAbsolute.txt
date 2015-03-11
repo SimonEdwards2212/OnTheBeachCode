@@ -1,0 +1,12 @@
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Task_2.exe.config
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Task_2.exe
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Task_2.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Managers.dll
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Managers.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\obj\Debug\Task_2.exe
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\obj\Debug\Task_2.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Entities.dll
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\Entities.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\App_Data\Database_Task2.mdf
+c:\users\simon\documents\visual studio 2013\Projects\Task_2\Task_2\bin\Debug\App_Data\Database_Task2_log.ldf

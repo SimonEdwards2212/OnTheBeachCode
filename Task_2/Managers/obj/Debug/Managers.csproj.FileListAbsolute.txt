@@ -1,0 +1,7 @@
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\bin\Debug\Managers.dll
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\bin\Debug\Managers.pdb
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\obj\Debug\Managers.csprojResolveAssemblyReference.cache
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\obj\Debug\Managers.dll
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\obj\Debug\Managers.pdb
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\bin\Debug\Entities.dll
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Managers\bin\Debug\Entities.pdb

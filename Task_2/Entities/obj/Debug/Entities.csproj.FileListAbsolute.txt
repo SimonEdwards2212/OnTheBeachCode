@@ -1,0 +1,4 @@
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Entities\bin\Debug\Entities.dll
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Entities\bin\Debug\Entities.pdb
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Entities\obj\Debug\Entities.dll
+c:\Users\Simon\documents\visual studio 2013\Projects\Task_2\Entities\obj\Debug\Entities.pdb
